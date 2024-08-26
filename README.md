@@ -1,2 +1,2 @@
 # PLP-Academy
-Day 2. Software Engineering
+Day 2. Software Engineering.
